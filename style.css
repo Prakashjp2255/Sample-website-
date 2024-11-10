@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+nav{
+    background-color: black;
+    color: white;
+    padding: 20px;
+  
+}
+ h1,ul,li{
+    display: inline;
+ }
+ul{
+    margin-left: 70%;
+}
+
+li{
+    color: burlywood;
+    cursor:pointer;
+}
+li:hover{
+    color: beige;
+}
+
+input{
+    width: 50%;
+    padding: 15px;
+
+}
+.searchbar{
+    margin: 50px;
+    text-align: center;
+}
+
+.image{
+    border-color: black;
+    border-width: 2px;
+    border-style:solid;
+    display: inline-block;
+    width: 200px;
+}
+
+.image:hover{
+    color:darkkhaki;
+}
+
+.aboutus{
+    padding: 20px;
+}
+
+.contact{
+    background-color: black;
+    color: wheat;
+    text-align: center;
+    padding: 20px;
+
+}
+.two:hover{
+    color: beige;
+
+}
